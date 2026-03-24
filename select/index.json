@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "base_track": "Darling",
+  "base_artist": "Kana Nishino",
+  "createdAt": "2026-03-24T08:00:10.351166Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "It's Been So Long Darling",
+      "artist": "Ernest Tubb",
+      "has_synced": false,
+      "path": "select/01_It's_Been_So_Long_Darling_Ernest_Tubb.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "My Darling, Anything",
+      "artist": "Lucky Soul",
+      "has_synced": false,
+      "path": "select/02_My_Darling,_Anything_Lucky_Soul.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dine, Dine My Darling",
+      "artist": "Alkaline Trio",
+      "has_synced": true,
+      "path": "select/03_Dine,_Dine_My_Darling_Alkaline_Trio.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Darling",
+      "artist": "Magic Man",
+      "has_synced": true,
+      "path": "select/04_Darling_Magic_Man.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Darling (reprise)",
+      "artist": "Magic Man",
+      "has_synced": true,
+      "path": "select/05_Darling_(reprise)_Magic_Man.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Darling, Please Come Home",
+      "artist": "Math and Physics Club",
+      "has_synced": true,
+      "path": "select/06_Darling,_Please_Come_Home_Math_and_Physics_Club.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Honey, Baby, Darling",
+      "artist": "Memoryhouse",
+      "has_synced": true,
+      "path": "select/07_Honey,_Baby,_Darling_Memoryhouse.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "My Darling Child",
+      "artist": "Sinéad O'Connor",
+      "has_synced": false,
+      "path": "select/08_My_Darling_Child_Sinéad_O'Connor.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "My Own Fault, Darling",
+      "artist": "B.B. King",
+      "has_synced": false,
+      "path": "select/09_My_Own_Fault,_Darling_B.B._King.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Darling Nikki",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/10_Darling_Nikki_Prince.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Darling Lorraine",
+      "artist": "Paul Simon",
+      "has_synced": true,
+      "path": "select/11_Darling_Lorraine_Paul_Simon.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Nobody's Darling",
+      "artist": "Alison Moyet",
+      "has_synced": false,
+      "path": "select/12_Nobody's_Darling_Alison_Moyet.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Nobody’s Darling",
+      "artist": "Alison Moyet",
+      "has_synced": false,
+      "path": "select/13_Nobody’s_Darling_Alison_Moyet.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Teenage Darling",
+      "artist": "Fleetwood Mac",
+      "has_synced": false,
+      "path": "select/14_Teenage_Darling_Fleetwood_Mac.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Darling",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_01_Darling_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Darling",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_02_Darling_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Darling",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_03_Darling_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Darling",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_04_Darling_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Darling",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_05_Darling_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "Darling",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_06_Darling_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "Darling",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_07_Darling_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "Darling",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_08_Darling_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "Darling",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_09_Darling_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "Darling",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_10_Darling_西野_カナ.txt"
+    }
+  ]
+}
